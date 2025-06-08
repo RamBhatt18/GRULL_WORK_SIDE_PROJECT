@@ -1,1 +1,1 @@
-# This repository contains the side project initiative started by the grull organization
+# Machine Learning predicting model for rock vs mine
